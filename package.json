@@ -44,7 +44,7 @@
     "react-helmet": "5.2.1",
     "react-hook-form": "3.28.12",
     "react-text-mask": "5.4.3",
-    "serialize-javascript": "2.1.0",
+    "serialize-javascript": "2.1.1",
     "source-map-support": "0.5.9",
     "universal-router": "8.3.0",
     "whatwg-fetch": "3.0.0"
